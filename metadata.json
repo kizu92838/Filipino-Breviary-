@@ -1,0 +1,6 @@
+{
+  "name": "Breviary",
+  "description": "A beautiful Daily Breviary app representing the Liturgy of the Hours, updated dynamically for each day and current hour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
